@@ -1,8 +1,8 @@
 # alura_simple_counter_with_bloc
 
-praticando Flutter com bloc, subindo para deixar registrado :)
+praticando Flutter com bloc, subindo para deixar registrado.
 
-## Getting Started
+## Getting Startedd
 
 This project is a starting point for a Flutter application.
 
