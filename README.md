@@ -1,6 +1,6 @@
 # alura_simple_counter_with_bloc
 
-A new Flutter project.
+praticando Flutter com bloc, subindo para deixar registrado :)
 
 ## Getting Started
 
